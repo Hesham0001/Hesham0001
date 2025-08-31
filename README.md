@@ -2,9 +2,9 @@
 
 I'm Hesham Yasser, a high school student (2025) from Egypt. I have had a passion for programming and coding since I was young, and this passion has continued to grow. I really enjoy creating and developing anything related to tech. For now, I am focusing on improving my skills and gaining more experience in cybersecurity. Feel free to contact me through my social media links.
 
-- 🔭 I’m currently working on Hesham's Calculator.
+- 🔭 I’m currently working on Hesham's Calculator program.
 - 🌱 I’m currently learning cybersecurity.
-- 🌟 I recently built a porgram to manage passwords safely with useing strong encryption to protect user passwords, check it out [here](https://github.com/Hesham0001/h-vault/)
+- 🌟 I recently built a porgram to manage passwords safely with using strong encryption to protect user passwords, check it out [here](https://github.com/Hesham0001/h-vault/)
 
 
 <!--
