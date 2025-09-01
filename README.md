@@ -8,9 +8,10 @@ I'm Hesham Yasser, a high school student (2025) from Egypt. I have had a passion
 
 <br>
 
+
 <div align="center" style="line-height:0; margin:0; padding:0;">
   <a href="https://github.com/Hesham0001/">
-    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=900&size=30&duration=1&pause=10&color=22806A&repeat=false&width=435&height=50&lines=Hesham+.." 
+    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=900&size=30&duration=1&pause=10&color=22806A&repeat=false&width=435&height=50&lines=Hesham+," 
          alt="Typing SVG" 
          style="display:block; margin:0 auto 0 -40px; padding:0; border:0;" />
   </a>
@@ -22,13 +23,11 @@ I'm Hesham Yasser, a high school student (2025) from Egypt. I have had a passion
 </div>
 
 
-
 ## 🛠️ Languages & Techniques
 <p>
   <img src="https://skillicons.dev/icons?i=python,flask,c,sqlite,html,css,bootstrap,git,github,linux,vscode" />
 </p>
 
-<br>
 
 ## 📊 Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hesham0001&label=Profile%20views&color=22806a&style=flat" alt="Hesham0001" /> </p>
