@@ -16,8 +16,7 @@ I'm Hesham Yasser, a high school student (2025) from Egypt. I have had a passion
          style="display:block; margin:0 auto 0 -40px; padding:0; border:0;" />
   </a>
   <a href="https://github.com/Hesham0001/">
-    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=900&size=28&pause=10&color=22806A&width=435&height=50&lines=Always+learning+new+things.;Always+Search.;Passionate+about+Cybersecurity.;Passionate+about+programming+.;Likes+to+play+chess.;Loves+making+new+projects." 
-         alt="Typing SVG" 
+    <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=900&size=25&pause=10&color=22806A&width=435&height=38&lines=Always+learning+new+things.;Always+Search.;Passionate+about+Cybersecurity.;Passionate+about+programming+.;Likes+to+play+chess.;Loves+making+new+projects." alt="Typing SVG" 
          style="display:block; margin:0 auto; padding:0; border:0;" />
   </a>
 </div>
