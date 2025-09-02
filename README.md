@@ -1,4 +1,4 @@
-## Hello there 👋
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">  Hello there
 
 I'm Hesham Yasser, a high school student (2025) from Egypt. I have had a passion for programming and coding since I was young, and this passion has continued to grow. I really enjoy creating and developing anything related to tech. For now, I am focusing on improving my skills and gaining more experience in cybersecurity. Feel free to contact me through my social media links.
 
@@ -33,3 +33,5 @@ I'm Hesham Yasser, a high school student (2025) from Egypt. I have had a passion
   <img align="" height='160px' src="https://beautiful-github-homepage.vercel.app/api?username=Hesham0001&hide_title=false&show_icons=true&theme=gotham&include_all_commits=true" alt="Hesham0001" />
   <img align="" height='160px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Hesham0001&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 </p>
+
+<img src"/he-banner" />
