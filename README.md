@@ -11,7 +11,6 @@ I'm Hesham Yasser, a high school student (2025) from Egypt. I have had a passion
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/752180360875475086/)
 
 </div>
-<br>
 
 - 🔭 I’m currently working on a Calculator program and an Adventure game.
 - 🌱 I’m currently learning cybersecurity.
