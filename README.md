@@ -10,12 +10,13 @@ I'm Hesham Yasser, a high school student (2025) from Egypt. I have had a passion
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/Hesham_37/) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/752180360875475086/)
 [![Youtube](https://img.shields.io/badge/Youtube-%23E60023.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@HeshamYasser37/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Hesham37)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/heshamyasser37/) 
 
 </div>
 
 - 🔭 I’m currently working on a Calculator program and an Adventure game.
-- 🌱 I’m currently learning cybersecurity.
+- 🌱 I’m currently learning cybersecurity through [TryHackMe](https://tryhackme.com/p/Hesham37).
 - 🌟 I recently built a program to manage passwords safely with using strong encryption, check it out [here](https://github.com/Hesham0001/h-vault/)
 
 <br>
