@@ -10,8 +10,8 @@ I'm Hesham Yasser, a high school student from Egypt. I have had a passion for pr
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/Hesham_37/) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/752180360875475086/)
 [![Youtube](https://img.shields.io/badge/Youtube-%23E60023.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@HeshamYasser37/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/HeshamYasser37)
-[![Chess.com](https://img.shields.io/badge/Chess.com-%2377933c.svg?logo=chess.com&logoColor=white)](https://www.chess.com/member/heshamyasser37)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/HeshamYasser37/)
+[![Chess.com](https://img.shields.io/badge/Chess.com-%2377933c.svg?logo=chess.com&logoColor=white)](https://www.chess.com/member/heshamyasser37/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/heshamyasser37/) 
 
 </div>
