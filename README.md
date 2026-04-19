@@ -40,6 +40,7 @@ I'm Hesham Yasser, a high school student from Egypt. I have had a passion for pr
   <img src="https://skillicons.dev/icons?i=python,flask,c,sqlite,html,css,bootstrap,tailwind,git,github,linux,vscode" />
 </p>
 
+<br>
 
 ## 📊 Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HeshamYasser37&label=Profile%20views&color=22806a&style=flat" alt="HeshamYasser37" /> </p>
