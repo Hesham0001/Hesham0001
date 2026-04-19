@@ -36,8 +36,8 @@ I'm Hesham Yasser, a high school student from Egypt. I have had a passion for pr
 
 
 ## 🛠️ Languages & Techniques
-<p>
-  <img src="https://skillicons.dev/icons?i=python,flask,c,sqlite,html,css,bootstrap,tailwind,git,github,linux,vscode" width="520" height="520"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,c,sqlite,html,css,bootstrap,tailwind,git,github,linux,vscode" />
 </p>
 
 
